@@ -18,8 +18,8 @@ Projetos #boraCodar da Rocketseat
     <tr>
       <td>01</td>
       <td>Music Player</td>
-      <td><center>🔴</center></td>
-      <td></td>
+      <td><center>🟢</center></td>
+      <td>February 1, 2023</td>
       <td><a href="workspaces/01-music-player">🔗</a></td>
     </tr>
     <tr>

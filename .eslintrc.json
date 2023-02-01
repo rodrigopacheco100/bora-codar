@@ -67,7 +67,7 @@
       "error",
       {
         "devDependencies": true,
-        "packageDir": ["workspaces/template"]
+        "packageDir": ["workspaces/template", "workspaces/01-music-player"]
       }
     ],
     "react/function-component-definition": "off",
